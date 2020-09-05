@@ -1,0 +1,4 @@
+# shardId, shardId , skillId    (Can add notes after each if you like)
+1,2,8    # example
+5,3,34   # example
+1,3,9    # Fire

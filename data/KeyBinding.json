@@ -1,0 +1,49 @@
+{
+    "common": {
+        "TargetSelect": "q",
+        "NearestTargetSelect": "f",
+        "FirearmReload": "r",
+        "Attack": "a",
+        "Jump": "s",
+        "Rotate": "d",
+        "Weapons": "e",
+        "Follow": "w",
+        "AutoRotate": "control",
+        "Shield": "v",
+        "SummonMenu": "c",
+        "Inventory": "i"
+    },
+    "weaponCircle": {
+        "TopSlot": "w",
+        "BottomSlot": "s",
+        "RightSlot": "d",
+        "LeftSlot": "a"
+    },
+    "SkillsPanel": {
+        "slot1": "1",
+        "slot2": "2",
+        "slot3": "3",
+        "slot4": "4",
+        "slot5": "5",
+        "slot6": "6",
+        "slot7": "7",
+        "slot8": "8"
+    },
+    "Gamepad": {
+        "action": "A",
+        "jump": "X",
+        "attack": "RTrigger",
+        "command": "Y",
+        "menu": "B",
+        "follow": "LStick",
+        "target": "RStick",
+        "select0": "dUp",
+        "select1": "dRight",
+        "select2": "dDown",
+        "select3": "dLeft",
+        "switchSkills": "LB",
+        "dashing": "LTrigger",
+        "switchCommand": "RB"
+    }
+}
+    
