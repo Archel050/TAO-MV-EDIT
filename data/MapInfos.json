@@ -1,15 +1,16 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Bosque Raiz","order":11,"parentId":0,"scrollX":4336,"scrollY":2480},
-{"id":2,"expanded":true,"name":"Isla","order":1,"parentId":0,"scrollX":1116,"scrollY":1815.4285714285713},
-{"id":3,"expanded":true,"name":"Villa Madera Roja","order":2,"parentId":2,"scrollX":1445.3333333333333,"scrollY":826.6666666666666},
-{"id":4,"expanded":false,"name":"Tienda","order":3,"parentId":3,"scrollX":929.1428571428571,"scrollY":531.4285714285714},
-{"id":5,"expanded":false,"name":"Bosque Lubrinno","order":7,"parentId":2,"scrollX":4336,"scrollY":2480},
-{"id":6,"expanded":false,"name":"Salón Admin","order":12,"parentId":0,"scrollX":4336,"scrollY":2480},
-{"id":7,"expanded":false,"name":"Puente Unión","order":8,"parentId":2,"scrollX":4336,"scrollY":2480},
-{"id":8,"expanded":false,"name":"Puerto Iter","order":9,"parentId":2,"scrollX":4336,"scrollY":2480},
-{"id":9,"expanded":false,"name":"INN","order":4,"parentId":3,"scrollX":4336,"scrollY":2480},
-{"id":10,"expanded":false,"name":"INN P2","order":5,"parentId":9,"scrollX":878.4,"scrollY":506.4},
-{"id":11,"expanded":false,"name":"Playa Norte","order":6,"parentId":3,"scrollX":4336,"scrollY":2480},
-{"id":12,"expanded":false,"name":"Entrada al Castillo","order":10,"parentId":2,"scrollX":4336,"scrollY":2480}
+{"id":1,"expanded":true,"name":"Parque","order":1,"parentId":0,"scrollX":1602,"scrollY":930},
+null,
+null,
+null,
+null,
+{"id":6,"expanded":false,"name":"Salón Admin","order":3,"parentId":0,"scrollX":4336,"scrollY":2480},
+null,
+null,
+null,
+null,
+null,
+null,
+{"id":13,"expanded":false,"name":"The Artfifact","order":2,"parentId":1,"scrollX":1626,"scrollY":930}
 ]
