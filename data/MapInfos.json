@@ -1,16 +1,16 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Parque","order":8,"parentId":0,"scrollX":1996,"scrollY":1258},
-{"id":2,"expanded":false,"name":"Central City","order":2,"parentId":0,"scrollX":3421.7142857142853,"scrollY":2156.5714285714284},
-{"id":3,"expanded":true,"name":"INN-CC","order":3,"parentId":2,"scrollX":1497,"scrollY":943.5},
-{"id":4,"expanded":false,"name":"BEER-CC","order":4,"parentId":2,"scrollX":832,"scrollY":640},
-{"id":5,"expanded":false,"name":"Té-CC","order":5,"parentId":2,"scrollX":929.1428571428571,"scrollY":531.4285714285714},
+{"id":1,"expanded":true,"name":"Parque","order":3,"parentId":0,"scrollX":1996,"scrollY":1258},
+{"id":2,"expanded":false,"name":"Central City","order":5,"parentId":8,"scrollX":2365.090909090909,"scrollY":1352.7272727272727},
+{"id":3,"expanded":true,"name":"INN-CC","order":6,"parentId":2,"scrollX":2168,"scrollY":1240},
+{"id":4,"expanded":false,"name":"BEER-CC","order":7,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"Té-CC","order":8,"parentId":2,"scrollX":929.1428571428571,"scrollY":531.4285714285714},
 {"id":6,"expanded":false,"name":"Salón Admin","order":1,"parentId":0,"scrollX":1084,"scrollY":620},
-{"id":7,"expanded":false,"name":"SHOP-CC","order":6,"parentId":2,"scrollX":832,"scrollY":640},
-{"id":8,"expanded":false,"name":"ISLAND-MAP","order":9,"parentId":0,"scrollX":2836,"scrollY":2098},
+{"id":7,"expanded":false,"name":"SHOP-CC","order":9,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":true,"name":"ISLAND-MAP","order":4,"parentId":0,"scrollX":2664,"scrollY":1640},
+{"id":9,"expanded":false,"name":"LAGO ISLAND 1","order":10,"parentId":8,"scrollX":915.4285714285713,"scrollY":531.4285714285714},
 null,
 null,
 null,
-null,
-{"id":13,"expanded":false,"name":"The Artfifact","order":7,"parentId":0,"scrollX":3421.7142857142853,"scrollY":2156.5714285714284}
+{"id":13,"expanded":false,"name":"The Artfifact","order":2,"parentId":0,"scrollX":4336,"scrollY":2480}
 ]
